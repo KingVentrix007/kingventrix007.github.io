@@ -9,13 +9,13 @@ I code [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Python](htt
 
 # About me
 
-I have been coding since 2017, since then I have worked on some projects(all off them of my own design) and competed in a programming Olympiad. I started with programming a raspberry pie in python, but I quickly discovered I didn't like coding sensors so i moved to making some fun apps in python, jump ahead 5 years and I decided to learn C, So I started making my first [operating system](https://github.com/KingVentrix007/AthenX), half way through I got board. A few months later I stumble across the code to AthenX and I decided to start working on it again. Now I am working on AthenX-2.0. A re-upload of AthenX but with a completely different kernel used as a base.  
+I have been coding since 2017, since then I have worked on some projects(all off them of my own design) and competed in a programming Olympiad. I started with programming a raspberry pie in python, but I soon discovered I didn't like coding sensors so i moved to making some fun apps in python, jump ahead 5 years and I decided to learn C, So I started making my first [operating system](https://github.com/KingVentrix007/AthenX), half way through I got board. A few months later I stumble across the code to AthenX and I decided to start working on it again. Now I am working on AthenX-2.0. A re-upload of AthenX but with a completely different kernel used as a base.  
 
 # Description of the type of projects I do
 
 I like to do projects that will challenge me and make me have to really think about how I am going to solve the problem. The project dose not have to be helpful, it just mustn't be easy.
 
-# list projects here
+# My current projects
 
 - [AthenX](https://github.com/KingVentrix007/AthenX) - A monotasking 32 bit operating system which is absolutely useless(Put logo here)
 - [AthenX-2.0](https://github.com/KingVentrix007/AthenX-2.0) - A 32 bit operating system which is actually useful, it has the very basic functionality of a cli OS and looks pretty awesome<a href="https://github.com/KingVentrix007/AthenX-2.0">

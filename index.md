@@ -76,10 +76,10 @@ Education:
 - Cambridge International Examinations
   - IGCSE Computer Science (94%)
   - IGCSE English (74%)
-  - IGCSE Maths (00%)
-  - IGCSE Physics (00%)
-  - IGCSE Chemistry(00%)
-  - IGCSE German foreign Language(00%)
+  - IGCSE Maths (waiting results)
+  - IGCSE Physics (waiting to write)
+  - IGCSE Chemistry(waiting to write)
+  - IGCSE German foreign Language(waiting to write)
   ----------------------------------------------------------
   - AS Computer Science (In progress)
   - AS Maths (in progress)
@@ -94,6 +94,6 @@ Education:
 ----------------------------------------------------------
 
 Objective:
-I am actively seeking a fulfilling and well-paying job that allows me to leverage my coding expertise and constantly challenges me to grow.
+I am 16 years old and am currently just enjoying programing.
 
 ----------------------------------------------------------

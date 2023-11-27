@@ -5,7 +5,7 @@ Name: Tristan Kuhn
 
 Contact: 000 000 000 000
 
-Email: <Dummy@dummy.dum>
+Email: <tristanjkuhn007@gmail.com>
 
 ----------------------------------------------------------
 

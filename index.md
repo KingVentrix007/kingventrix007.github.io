@@ -94,6 +94,6 @@ Education:
 ----------------------------------------------------------
 
 Objective:
-I am 16 years old and am currently just enjoying programing.
+I am 16 years old and am currently just enjoying programing. I don't currently have any objectives 
 
 ----------------------------------------------------------

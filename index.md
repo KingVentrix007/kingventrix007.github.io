@@ -10,7 +10,7 @@ Email: <tristanjkuhn007@gmail.com>
 ----------------------------------------------------------
 
 Summary:
-Passionate and self-driven coder with a diverse skill set in programming languages including C, Python, and more. Extensive experience in software development and a strong foundation in operating system design. Seeking a challenging role that allows me to utilize my coding skills and push the boundaries of technology.
+Passionate and self-driven coder with a diverse skill set in programming languages including C, Python, and more. Extensive experience in software development and a strong foundation in operating system design. Seeking a challenging role(that I can work on part time, couse I am in school) that allows me to utilize my coding skills and push the boundaries of technology.
 
 ----------------------------------------------------------
 

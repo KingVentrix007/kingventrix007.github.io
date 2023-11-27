@@ -82,12 +82,14 @@ Education:
   - IGCSE Physics (waiting to write)
   - IGCSE Chemistry(waiting to write)
   - IGCSE German foreign Language(waiting to write)
+    
   ----------------------------------------------------------
   - AS Computer Science (In progress)
   - AS Maths (in progress)
   - AS English (in progress)
   - AS Physics (in progress)
   - AS Chemistry (in progress)
+    
   ----------------------------------------------------------
   - A level Maths (in progress)
   - A level Physics (in progress)

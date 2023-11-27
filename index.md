@@ -27,6 +27,7 @@ Projects:
 9. Unity Games (Unity-specific coding language)
 10. Python movie stat reader(Python)
 11. Text-based adventure game(Python)
+
 ----------------------------------------------------------
 
 Coding Languages (1-10 Rating):

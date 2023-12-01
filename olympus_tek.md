@@ -14,7 +14,7 @@ Olympus Tek is a dynamic software development company committed to pushing the b
 
 ### 2. [HermesScript](https://github.com/KingVentrix007/Text-Game-engine)
 
-**Description:** Project HermesScript is a Game Engine for Text based games. It uses "states" and keywords in a json file to save locations and chartiers for the game, the Free version is limited, but allows the user to quickly crate a simple game, however the free version does contain features of the pro version that will be removed at a later point. Only the free version is up dor download at the moment
+**Description:** Project HermesScript is a Game Engine for Text based games. It uses "states" and keywords in a json file to save locations and characters for the game, the Free version is limited, but allows the user to quickly crate a simple game, however the free version does contain features of the pro version that will be removed at a later point. Only the free version is up dor download at the moment
 
 [//]: # (Add more projects with similar structure)
 

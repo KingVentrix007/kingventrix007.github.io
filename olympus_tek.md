@@ -16,11 +16,13 @@ Olympus Tek is a dynamic software development company committed to pushing the b
 
 **Description:** Project HermesScript is a Game Engine for Text based games. It uses "states" and keywords in a json file to save locations and characters for the game, the Free version is limited, but allows the user to quickly crate a simple game, however the free version does contain features of the pro version that will be removed at a later point. Only the free version is up dor download at the moment
 
-[//]: # (Add more projects with similar structure)
+### 4.MineCraft App
+
+**Description:** The MineCraft App is an unfinished hobby project, it is simple to use and provided a offline wiki of of sorts for minecraft players to read about mobs. It is deprecated, but is included here for completeness
 
 ## Contact Us
 
-Interested in collaborating or learning more about our projects? Feel free to reach out to us at [contact@olympustek.com].
+Interested in collaborating or learning more about our projects? Feel free to reach out to us at <tristanjkuhn007@gmail.com>.
 
 ----------------------------------------------
 Disclaimer: Olympus Tek is not an official compan.

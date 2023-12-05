@@ -1,0 +1,97 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="css/frame.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="css/controls.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="css/custom.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/footer.js"></script>
+    <title>Olympus Tek Downloads</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #005cbf; /* Blue color */
+            color: #ffd700; /* Gold color */
+        }
+
+        section {
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        button {
+            background-color: #ffd700; /* Gold color */
+            color: #005cbf; /* Blue color */
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            margin: 10px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .menu-index {
+      color: rgb(255, 255, 255) !important;
+      opacity: 1 !important;
+      font-weight: 700 !important;
+    }
+    </style>
+    
+</head>
+<body>
+    <div class="menu-container"></div>
+    <header>
+        <h1>Olympus Tek Downloads</h1>
+        <p>Copy the link or download the files</p>
+    </header>
+
+    <section>
+        <!-- Copy Link button for the first file -->
+        <button onclick="copyToClipboard('https://github.com/KingVentrix007/AthenX-2.0.git')">AthenX-2.0</button>
+        <img src="https://sonarcloud.io/api/project_badges/measure?project=KingVentrix007_AthenX-2.0&metric=ncloc" alt="SonarCloud Badge">
+        <p>AthenX-2.0 is to big to store in download format on github, so it will have be cloned and built manually at the moment</p>
+
+        <!-- Download buttons for the rest of the files -->
+        <a href="downloads/win_download.zip" download>
+            <button>HermesScript</button>
+        </a>
+        <p>HermesScript is a game developement engine for text based game engine</p>
+<!-- 
+        <a href="files/file3.pdf" download>
+            <button>Download File 3 (PDF)</button>
+        </a>
+        <p>Brief description of File 3.</p> -->
+    </section>
+
+    <script>
+        function copyToClipboard(text) {
+            const input = document.createElement('input');
+            input.value = window.location.href.split('index.html')[0] + text;
+            document.body.appendChild(input);
+            input.select();
+            document.execCommand('copy');
+            document.body.removeChild(input);
+            alert('Link copied to clipboard!');
+        }
+    </script>
+<div class="footer-container"></div>
+</body>
+</html>

@@ -784,7 +784,7 @@ ol.nested>li:before {
 .gallery>div.flex-column>video {
   border-radius: 2px;
   width: 100%;
-  background-image: url(../img/loading.gif);
+  background-image: url(../ img/loading.gif);
   background-repeat: no-repeat;
   background-size: 30px 30px;
   background-position: center;
@@ -845,7 +845,7 @@ ol.nested>li:before {
 .masonry figure>img,
 .masonry figure>video {
   width: 100%;
-  background-image: url(../img/loading.gif);
+  background-image: url(../ img/loading.gif);
   background-repeat: no-repeat;
   background-size: 30px 30px;
   background-position: center;
@@ -1096,7 +1096,7 @@ ol.nested>li:before {
 .custom-survey .custom-radio-group-survey input[type="checkbox"]+label>figure>img,
 .custom-survey .custom-radio-group-survey input[type="checkbox"]+label>figure>video {
   width: 100%;
-  background-image: url(../img/loading.gif);
+  background-image: url(../ img/loading.gif);
   background-repeat: no-repeat;
   background-size: 30px 30px;
   background-position: center;

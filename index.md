@@ -7,4 +7,4 @@ Hello, I'm Tristan kuhn, a passionate individual who loves computers, coding, an
 ## Projects
 
 - [CV](CV.md): Learn more about my background, skills, and experiences.
-- [Olympus Tek](olympus_tek.md): Explore the amazing world of Olympus Tek.
+- [Olympus Tek](olympus-tek/index.html): Explore the amazing world of Olympus Tek.

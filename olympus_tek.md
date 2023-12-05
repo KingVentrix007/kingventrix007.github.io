@@ -8,7 +8,8 @@ Olympus Tek is a dynamic software development company committed to pushing the b
 ## Our Projects
 
 ### 1. [AthenX-2.0](https://github.com/KingVentrix007/AthenX-2.0)
-
+[![Sonar Cube Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KingVentrix007_AthenX-2.0&metric=ncloc)](https://sonarcloud.io/dashboard?id=AthenX-2.0)
+[![Sonar Cube Number of bugs](https://sonarcloud.io/api/project_badges/measure?project=KingVentrix007_AthenX-2.0&metric=bugs)](https://sonarcloud.io/dashboard?id=AthenX-2.0)
 **Description:** Project AthenX-2.0 is a revolutionary operating system designed for versatility. It strives to support various file systems like ext2/ext3/ext4, FAT/12/14/16/32 (All FAT filesystems), and NTFS. With an advanced command line and a basic GUI featuring a map display, Athena provides a seamless user experience. It is currently in pre-alpha state, with many feature not functioning or implemented
 
 

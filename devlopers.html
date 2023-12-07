@@ -48,6 +48,21 @@
       opacity: 1 !important;
       font-weight: 700 !important;
     }
+    /* Add this style to the existing <style> section or your custom.css file */
+    .track-progress-btn {
+        background-color: #4CAF50; /* Green color, you can customize */
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+
     </style>
 </head>
 <body>
@@ -57,24 +72,29 @@
         <p>Meet the talented minds behind our projects</p>
     </header>
 
-    <section>
-        <div class="developer-card">
-            <img alt="Developer 1" class="developer-img">
-            <h2>Tristan Kuhn</h2>
-            <p>Specialization: [Main Programer, Owner]</p>
-            <a href="CV.html"><p>Qualifications</p></a>
+   <!-- index.html -->
 
-            
-        </div>
+<!-- ... (existing code) ... -->
 
-        <!-- <div class="developer-card">
-            <img src="developer2.jpg" alt="Developer 2" class="developer-img">
-            <h2>Developer 2</h2>
-            <p>Specialization: [Developer 2's expertise]</p>
-            <p>Experience: [Developer 2's years of experience]</p>
-        </div> -->
-        <!-- Add more developer cards as needed -->
-    </section>
+<section>
+    <div class="developer-card">
+        <img alt="Developer 1" class="developer-img">
+        <h2>Tristan Kuhn</h2>
+        <p>Specialization: [Main Programer, Owner]</p>
+        <a href="CV.html"><p>Qualifications</p></a>
+        <p>Current Project: Learn C# and java</p>
+
+        <!-- Add the "Track Progress" button with a link to your GitHub repo -->
+        <a href="https://github.com/KingVentrix007/Studying" target="_blank">
+            <button class="track-progress-btn">Track Progress</button>
+        </a>
+    </div>
+
+    <!-- ... (other developer cards) ... -->
+</section>
+
+<!-- ... (remaining code) ... -->
+
     <div class="footer-container"></div>
 </body>
 </html>
